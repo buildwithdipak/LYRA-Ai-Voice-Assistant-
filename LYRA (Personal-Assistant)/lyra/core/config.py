@@ -1,0 +1,2 @@
+ASSISTANT_NAME = "LYRA"
+LLM_KEY = ""
