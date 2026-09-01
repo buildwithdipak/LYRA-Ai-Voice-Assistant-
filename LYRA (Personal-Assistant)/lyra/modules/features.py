@@ -380,9 +380,9 @@ def geminai(query):
 
 # Settings Modal 
 
-WEATHER_API_KEY = "b2e8f4ff51d93f378844ce06669c7373"
-API_KEY = "AIzaSyD4EBLPp_OE-FAMTdVQLnkCzdGUcLiwHvo"
-NEWS_API_KEY = "194ad47e83364f63838121301d981b61"
+WEATHER_API_KEY = "ENTER YOUR OPEN WETHER API KEY"
+API_KEY = "ENTER YOUR GEMINI AI API KEY"
+NEWS_API_KEY = "ENTER YOUR NEWS API KEY"
 FACE_CASCADE_PATH = "data/auth/haarcascade_frontalface_default.xml"
 
 recognizer = sr.Recognizer()
